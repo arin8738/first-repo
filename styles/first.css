@@ -3,4 +3,35 @@ h1{
     color: red;
     font-size: 55px;
     margin-top: 0px;
+    padding-bottom: 0px;
+}
+img{
+    margin-top: 0px;
+    height: 600px;
+    width: 900px;
+   
+}
+#ok{
+    background-color: red;
+    height: 700px;
+}
+h2{
+    padding-left: 40px;
+    padding-top: 200px;
+    font-size: 65px;
+    color:white;
+}
+button{
+    padding:20px 20px 20px 20px;
+    margin-left: 90px;
+    margin-top: 0px;
+    cursor: pointer;
+}
+button cursor{
+    background-color: red;
+    
+}
+button :hover{
+    
+    background-color: black;
 }
